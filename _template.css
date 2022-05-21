@@ -1,0 +1,15 @@
+/* Basic setup to copy & paste for art projects */
+
+.center {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    background-color: #ff0000;
+    border-radius: 0px;
+    box-shadow: none;
+}
